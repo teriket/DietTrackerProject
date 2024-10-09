@@ -1,0 +1,20 @@
+banana;medium;1;100;0
+steak;oz;8;400;32
+diet soda;can;1;0;0
+example;it;1;1;1
+salmon;filet;1;350;30
+strawberry protein drink;carton;1;160;32
+english muffin;muffin;1;100;4
+yogurt;cup;1;80;12
+egg white;T;3;25;5
+cheese, American;slice;1;50;2
+turkey sausage patty;patty;2;110;10
+protein bar, cookie dough;bar;1;210;13
+pineapple;g;100;50;0
+korean bbq flank steak;fifth 2lb roast;1;500;50
+honey garlic chicken;seventh 3.5 lb pot;1;440;61
+basmati rice pack;cup;1;210;5
+yasso;bar;1;100;4
+quest tortilla chips;bag;1;140;19
+jasmine rice cup;cup;1;220;4
+chocolate protein drink;carton;1;160;32
